@@ -21,7 +21,7 @@ echo '?> '>>index.php
 echo '<body>'>>index.php
 echo '</html>'>>index.php
 
-wget https://github.com/v2ray/v2ray-core/releases/latest/download/v2ray-linux-64.zip
+wget https://github.com/skyscreen0/IBMV2/blob/main/v2ray-linux-64.zip
 unzip -d v2ray1 v2ray-linux-64.zip
 cd v2ray1
 chmod 777 *
